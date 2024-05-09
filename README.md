@@ -9,4 +9,7 @@
 
 
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=falcolnic&theme=bear)
+<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=falcolnic&theme=bear&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=falcolnic&theme=bear)
