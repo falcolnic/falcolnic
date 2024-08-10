@@ -1,9 +1,7 @@
 <h1 align="center">Hi there! 👋</h1>
 
-<h2 align="center">Backend developer</h2>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=falcolnic&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&theme=radical&locale=en&hide_border=true&custom_title=Stats" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=falcolnic&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&custom_title=Stats" height="200" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=falcolnic&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="200" alt="streak graph"  />
 </div>
 
