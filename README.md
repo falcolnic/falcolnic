@@ -1,7 +1,8 @@
 <h1 align="center">Yo</h1>
+ 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=falcolnic&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=falcolnic&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&theme=radical&locale=en&hide_border=true" height="200" alt="stats graph"  /> 
   <img src="https://streak-stats.demolab.com?user=falcolnic&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
 </div>
 
